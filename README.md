@@ -1,2 +1,3 @@
 # My-Journey-At-YBI-foundation
-Airtificial intelligence Project
+I am learning at YBI Foundation
+Full Stack AIML
